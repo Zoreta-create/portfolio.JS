@@ -253,19 +253,15 @@ section .header {
   header .image::before {
     display: none;
   }
-
   .card .content {
     min-width: 700px;
   }
-
   .features {
     grid-template-columns: repeat(1, 1fr);
   }
-
   .container-box {
     padding-top: 2rem;
   }
-
   .socials {
     padding-top: 2rem;
   }
